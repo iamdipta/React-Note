@@ -1,0 +1,24 @@
+.main-note{
+    text-align: center;
+    display: flex;
+}
+input{
+    padding: 5px;
+    margin: 10px;
+    border:none;
+    border-bottom: 2px solid grey;
+    
+}
+textarea{
+    padding: 5px;
+    margin: 20px;
+    border:none;
+    border-bottom: 2px solid grey;
+}
+form{
+    border: solid 1px dimgray;
+    border-radius: 20px;
+    margin:10px;
+    width: fit-content;
+    padding: 20px;
+}
